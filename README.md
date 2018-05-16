@@ -1,2 +1,2 @@
 # Doxxes
-Doxxes of everyone 
+# The Official Poodle-Corp Dox Dump
